@@ -2,6 +2,9 @@
     <!-- echarts图形默认宽高为0 -->
   <div ref = "mychart" id="demo"></div>
   <!-- dom元素 id 为要设置的名称 -->
+   <div>test
+
+   </div>
 </template>
 
 <script>
